@@ -188,3 +188,19 @@ footer{
     margin-top: 100px;
     padding: 110px 230px;
 }
+.footer-collume{
+    width: 50%;
+}
+.form input[type="text"],input[type="email"],textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 30px;
+    border-radius: 5px;
+    color: #757575;
+    background: #FFF;
+    border: 0;
+    width: 100%;
+}
+.social-link a{
+    margin-right: 30px;
+}
