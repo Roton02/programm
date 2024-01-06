@@ -3,6 +3,9 @@ body{
     font-family: 'Open Sans', sans-serif;
     
 }
+button:hover{
+    cursor: pointer;
+}
 nav{
     display: flex;
     justify-content: space-between;
@@ -47,9 +50,9 @@ line-height: normal;
 
 .header{
     background-color: antiquewhite;
-    background-image: url(images/header_bg.png);
+    background-image: url(images/header_bg.png),url('images/developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right,top left;
 
 }
 .banner{
